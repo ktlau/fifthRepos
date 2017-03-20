@@ -1,6 +1,6 @@
 html {
    margin:20px;
-   background-color:#EDF5C8;
+   background-color: #EDF5C8;
 }
 body {
    font-family: "HelveticaNeue-Light", "Helvetica Neue Light";
@@ -8,7 +8,7 @@ body {
    color: #333;
 } 
 h1 {
-     font-size: 50px;
+    font-size: 50px;
 }
 P {
     font-size: 20px;
